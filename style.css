@@ -1018,7 +1018,10 @@ footer .topfooter::-webkit-scrollbar{
 @media  (max-width:600px) {
     section.hero{
        height:1200px;
+       min-width: 100%;
     }
+
+
     nav{
  
         padding: 10px;
@@ -1051,7 +1054,7 @@ footer .topfooter::-webkit-scrollbar{
         padding: 10px 30px;
     }
     .plgrid {
-        width: 100vw;
+        width: 100%;
     
        
     }
